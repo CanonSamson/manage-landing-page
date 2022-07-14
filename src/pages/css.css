@@ -1,0 +1,19 @@
+
+
+
+.get-started{
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    box-shadow: 2px 10px 10px  hsl(12, 80%, 80%);
+}
+
+.bbcolor {
+    background-color: hsl(12, 88%, 59%);
+}
+.color{
+    background-color: hsl(13, 100%, 96%);
+}
+.pcolor{
+    color: hsl(228, 39%, 23%);
+}
+
